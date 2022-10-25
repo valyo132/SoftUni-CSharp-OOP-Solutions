@@ -1,0 +1,14 @@
+M:\C# OOP\Inheritance - Lab\02. Multiple Inheritance\bin\Debug\netcoreapp3.1\02. Multiple Inheritance.exe
+M:\C# OOP\Inheritance - Lab\02. Multiple Inheritance\bin\Debug\netcoreapp3.1\02. Multiple Inheritance.deps.json
+M:\C# OOP\Inheritance - Lab\02. Multiple Inheritance\bin\Debug\netcoreapp3.1\02. Multiple Inheritance.runtimeconfig.json
+M:\C# OOP\Inheritance - Lab\02. Multiple Inheritance\bin\Debug\netcoreapp3.1\02. Multiple Inheritance.runtimeconfig.dev.json
+M:\C# OOP\Inheritance - Lab\02. Multiple Inheritance\bin\Debug\netcoreapp3.1\02. Multiple Inheritance.dll
+M:\C# OOP\Inheritance - Lab\02. Multiple Inheritance\bin\Debug\netcoreapp3.1\02. Multiple Inheritance.pdb
+M:\C# OOP\Inheritance - Lab\02. Multiple Inheritance\obj\Debug\netcoreapp3.1\02. Multiple Inheritance.csproj.AssemblyReference.cache
+M:\C# OOP\Inheritance - Lab\02. Multiple Inheritance\obj\Debug\netcoreapp3.1\02. Multiple Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+M:\C# OOP\Inheritance - Lab\02. Multiple Inheritance\obj\Debug\netcoreapp3.1\02. Multiple Inheritance.AssemblyInfoInputs.cache
+M:\C# OOP\Inheritance - Lab\02. Multiple Inheritance\obj\Debug\netcoreapp3.1\02. Multiple Inheritance.AssemblyInfo.cs
+M:\C# OOP\Inheritance - Lab\02. Multiple Inheritance\obj\Debug\netcoreapp3.1\02. Multiple Inheritance.csproj.CoreCompileInputs.cache
+M:\C# OOP\Inheritance - Lab\02. Multiple Inheritance\obj\Debug\netcoreapp3.1\02. Multiple Inheritance.dll
+M:\C# OOP\Inheritance - Lab\02. Multiple Inheritance\obj\Debug\netcoreapp3.1\02. Multiple Inheritance.pdb
+M:\C# OOP\Inheritance - Lab\02. Multiple Inheritance\obj\Debug\netcoreapp3.1\02. Multiple Inheritance.genruntimeconfig.cache

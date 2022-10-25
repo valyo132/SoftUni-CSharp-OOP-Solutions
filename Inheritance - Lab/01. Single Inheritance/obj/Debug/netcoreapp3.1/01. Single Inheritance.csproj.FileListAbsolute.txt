@@ -1,0 +1,14 @@
+M:\C# OOP\Inheritance - Lab\01. Single Inheritance\bin\Debug\netcoreapp3.1\01. Single Inheritance.exe
+M:\C# OOP\Inheritance - Lab\01. Single Inheritance\bin\Debug\netcoreapp3.1\01. Single Inheritance.deps.json
+M:\C# OOP\Inheritance - Lab\01. Single Inheritance\bin\Debug\netcoreapp3.1\01. Single Inheritance.runtimeconfig.json
+M:\C# OOP\Inheritance - Lab\01. Single Inheritance\bin\Debug\netcoreapp3.1\01. Single Inheritance.runtimeconfig.dev.json
+M:\C# OOP\Inheritance - Lab\01. Single Inheritance\bin\Debug\netcoreapp3.1\01. Single Inheritance.dll
+M:\C# OOP\Inheritance - Lab\01. Single Inheritance\bin\Debug\netcoreapp3.1\01. Single Inheritance.pdb
+M:\C# OOP\Inheritance - Lab\01. Single Inheritance\obj\Debug\netcoreapp3.1\01. Single Inheritance.csproj.AssemblyReference.cache
+M:\C# OOP\Inheritance - Lab\01. Single Inheritance\obj\Debug\netcoreapp3.1\01. Single Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+M:\C# OOP\Inheritance - Lab\01. Single Inheritance\obj\Debug\netcoreapp3.1\01. Single Inheritance.AssemblyInfoInputs.cache
+M:\C# OOP\Inheritance - Lab\01. Single Inheritance\obj\Debug\netcoreapp3.1\01. Single Inheritance.AssemblyInfo.cs
+M:\C# OOP\Inheritance - Lab\01. Single Inheritance\obj\Debug\netcoreapp3.1\01. Single Inheritance.csproj.CoreCompileInputs.cache
+M:\C# OOP\Inheritance - Lab\01. Single Inheritance\obj\Debug\netcoreapp3.1\01. Single Inheritance.dll
+M:\C# OOP\Inheritance - Lab\01. Single Inheritance\obj\Debug\netcoreapp3.1\01. Single Inheritance.pdb
+M:\C# OOP\Inheritance - Lab\01. Single Inheritance\obj\Debug\netcoreapp3.1\01. Single Inheritance.genruntimeconfig.cache
