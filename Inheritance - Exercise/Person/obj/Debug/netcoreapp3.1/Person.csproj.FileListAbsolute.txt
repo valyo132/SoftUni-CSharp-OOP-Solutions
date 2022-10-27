@@ -1,0 +1,14 @@
+M:\C# OOP\Inheritance - Exercise\01. Person\bin\Debug\netcoreapp3.1\Person.exe
+M:\C# OOP\Inheritance - Exercise\01. Person\bin\Debug\netcoreapp3.1\Person.deps.json
+M:\C# OOP\Inheritance - Exercise\01. Person\bin\Debug\netcoreapp3.1\Person.runtimeconfig.json
+M:\C# OOP\Inheritance - Exercise\01. Person\bin\Debug\netcoreapp3.1\Person.runtimeconfig.dev.json
+M:\C# OOP\Inheritance - Exercise\01. Person\bin\Debug\netcoreapp3.1\Person.dll
+M:\C# OOP\Inheritance - Exercise\01. Person\bin\Debug\netcoreapp3.1\Person.pdb
+M:\C# OOP\Inheritance - Exercise\01. Person\obj\Debug\netcoreapp3.1\Person.csproj.AssemblyReference.cache
+M:\C# OOP\Inheritance - Exercise\01. Person\obj\Debug\netcoreapp3.1\Person.GeneratedMSBuildEditorConfig.editorconfig
+M:\C# OOP\Inheritance - Exercise\01. Person\obj\Debug\netcoreapp3.1\Person.AssemblyInfoInputs.cache
+M:\C# OOP\Inheritance - Exercise\01. Person\obj\Debug\netcoreapp3.1\Person.AssemblyInfo.cs
+M:\C# OOP\Inheritance - Exercise\01. Person\obj\Debug\netcoreapp3.1\Person.csproj.CoreCompileInputs.cache
+M:\C# OOP\Inheritance - Exercise\01. Person\obj\Debug\netcoreapp3.1\Person.dll
+M:\C# OOP\Inheritance - Exercise\01. Person\obj\Debug\netcoreapp3.1\Person.pdb
+M:\C# OOP\Inheritance - Exercise\01. Person\obj\Debug\netcoreapp3.1\Person.genruntimeconfig.cache
