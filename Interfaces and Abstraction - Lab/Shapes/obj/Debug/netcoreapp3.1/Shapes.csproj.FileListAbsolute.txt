@@ -1,0 +1,14 @@
+M:\C# OOP\Interfaces and Abstraction - Lab\Shapes\bin\Debug\netcoreapp3.1\Shapes.exe
+M:\C# OOP\Interfaces and Abstraction - Lab\Shapes\bin\Debug\netcoreapp3.1\Shapes.deps.json
+M:\C# OOP\Interfaces and Abstraction - Lab\Shapes\bin\Debug\netcoreapp3.1\Shapes.runtimeconfig.json
+M:\C# OOP\Interfaces and Abstraction - Lab\Shapes\bin\Debug\netcoreapp3.1\Shapes.runtimeconfig.dev.json
+M:\C# OOP\Interfaces and Abstraction - Lab\Shapes\bin\Debug\netcoreapp3.1\Shapes.dll
+M:\C# OOP\Interfaces and Abstraction - Lab\Shapes\bin\Debug\netcoreapp3.1\Shapes.pdb
+M:\C# OOP\Interfaces and Abstraction - Lab\Shapes\obj\Debug\netcoreapp3.1\Shapes.csproj.AssemblyReference.cache
+M:\C# OOP\Interfaces and Abstraction - Lab\Shapes\obj\Debug\netcoreapp3.1\Shapes.GeneratedMSBuildEditorConfig.editorconfig
+M:\C# OOP\Interfaces and Abstraction - Lab\Shapes\obj\Debug\netcoreapp3.1\Shapes.AssemblyInfoInputs.cache
+M:\C# OOP\Interfaces and Abstraction - Lab\Shapes\obj\Debug\netcoreapp3.1\Shapes.AssemblyInfo.cs
+M:\C# OOP\Interfaces and Abstraction - Lab\Shapes\obj\Debug\netcoreapp3.1\Shapes.csproj.CoreCompileInputs.cache
+M:\C# OOP\Interfaces and Abstraction - Lab\Shapes\obj\Debug\netcoreapp3.1\Shapes.dll
+M:\C# OOP\Interfaces and Abstraction - Lab\Shapes\obj\Debug\netcoreapp3.1\Shapes.pdb
+M:\C# OOP\Interfaces and Abstraction - Lab\Shapes\obj\Debug\netcoreapp3.1\Shapes.genruntimeconfig.cache
