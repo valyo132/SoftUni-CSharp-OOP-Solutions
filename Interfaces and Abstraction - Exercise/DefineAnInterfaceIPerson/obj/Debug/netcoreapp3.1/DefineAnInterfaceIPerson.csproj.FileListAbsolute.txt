@@ -1,0 +1,14 @@
+M:\C# OOP\Interfaces and Abstraction - Exercise\DefineAnInterfaceIPerson\bin\Debug\netcoreapp3.1\DefineAnInterfaceIPerson.exe
+M:\C# OOP\Interfaces and Abstraction - Exercise\DefineAnInterfaceIPerson\bin\Debug\netcoreapp3.1\DefineAnInterfaceIPerson.deps.json
+M:\C# OOP\Interfaces and Abstraction - Exercise\DefineAnInterfaceIPerson\bin\Debug\netcoreapp3.1\DefineAnInterfaceIPerson.runtimeconfig.json
+M:\C# OOP\Interfaces and Abstraction - Exercise\DefineAnInterfaceIPerson\bin\Debug\netcoreapp3.1\DefineAnInterfaceIPerson.runtimeconfig.dev.json
+M:\C# OOP\Interfaces and Abstraction - Exercise\DefineAnInterfaceIPerson\bin\Debug\netcoreapp3.1\DefineAnInterfaceIPerson.dll
+M:\C# OOP\Interfaces and Abstraction - Exercise\DefineAnInterfaceIPerson\bin\Debug\netcoreapp3.1\DefineAnInterfaceIPerson.pdb
+M:\C# OOP\Interfaces and Abstraction - Exercise\DefineAnInterfaceIPerson\obj\Debug\netcoreapp3.1\DefineAnInterfaceIPerson.csproj.AssemblyReference.cache
+M:\C# OOP\Interfaces and Abstraction - Exercise\DefineAnInterfaceIPerson\obj\Debug\netcoreapp3.1\DefineAnInterfaceIPerson.GeneratedMSBuildEditorConfig.editorconfig
+M:\C# OOP\Interfaces and Abstraction - Exercise\DefineAnInterfaceIPerson\obj\Debug\netcoreapp3.1\DefineAnInterfaceIPerson.AssemblyInfoInputs.cache
+M:\C# OOP\Interfaces and Abstraction - Exercise\DefineAnInterfaceIPerson\obj\Debug\netcoreapp3.1\DefineAnInterfaceIPerson.AssemblyInfo.cs
+M:\C# OOP\Interfaces and Abstraction - Exercise\DefineAnInterfaceIPerson\obj\Debug\netcoreapp3.1\DefineAnInterfaceIPerson.csproj.CoreCompileInputs.cache
+M:\C# OOP\Interfaces and Abstraction - Exercise\DefineAnInterfaceIPerson\obj\Debug\netcoreapp3.1\DefineAnInterfaceIPerson.dll
+M:\C# OOP\Interfaces and Abstraction - Exercise\DefineAnInterfaceIPerson\obj\Debug\netcoreapp3.1\DefineAnInterfaceIPerson.pdb
+M:\C# OOP\Interfaces and Abstraction - Exercise\DefineAnInterfaceIPerson\obj\Debug\netcoreapp3.1\DefineAnInterfaceIPerson.genruntimeconfig.cache

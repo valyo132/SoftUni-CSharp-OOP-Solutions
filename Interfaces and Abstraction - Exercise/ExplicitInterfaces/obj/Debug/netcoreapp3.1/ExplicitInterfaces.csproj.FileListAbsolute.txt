@@ -1,0 +1,14 @@
+M:\C# OOP\Interfaces and Abstraction - Exercise\ExplicitInterfaces\bin\Debug\netcoreapp3.1\ExplicitInterfaces.exe
+M:\C# OOP\Interfaces and Abstraction - Exercise\ExplicitInterfaces\bin\Debug\netcoreapp3.1\ExplicitInterfaces.deps.json
+M:\C# OOP\Interfaces and Abstraction - Exercise\ExplicitInterfaces\bin\Debug\netcoreapp3.1\ExplicitInterfaces.runtimeconfig.json
+M:\C# OOP\Interfaces and Abstraction - Exercise\ExplicitInterfaces\bin\Debug\netcoreapp3.1\ExplicitInterfaces.runtimeconfig.dev.json
+M:\C# OOP\Interfaces and Abstraction - Exercise\ExplicitInterfaces\bin\Debug\netcoreapp3.1\ExplicitInterfaces.dll
+M:\C# OOP\Interfaces and Abstraction - Exercise\ExplicitInterfaces\bin\Debug\netcoreapp3.1\ExplicitInterfaces.pdb
+M:\C# OOP\Interfaces and Abstraction - Exercise\ExplicitInterfaces\obj\Debug\netcoreapp3.1\ExplicitInterfaces.csproj.AssemblyReference.cache
+M:\C# OOP\Interfaces and Abstraction - Exercise\ExplicitInterfaces\obj\Debug\netcoreapp3.1\ExplicitInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+M:\C# OOP\Interfaces and Abstraction - Exercise\ExplicitInterfaces\obj\Debug\netcoreapp3.1\ExplicitInterfaces.AssemblyInfoInputs.cache
+M:\C# OOP\Interfaces and Abstraction - Exercise\ExplicitInterfaces\obj\Debug\netcoreapp3.1\ExplicitInterfaces.AssemblyInfo.cs
+M:\C# OOP\Interfaces and Abstraction - Exercise\ExplicitInterfaces\obj\Debug\netcoreapp3.1\ExplicitInterfaces.csproj.CoreCompileInputs.cache
+M:\C# OOP\Interfaces and Abstraction - Exercise\ExplicitInterfaces\obj\Debug\netcoreapp3.1\ExplicitInterfaces.dll
+M:\C# OOP\Interfaces and Abstraction - Exercise\ExplicitInterfaces\obj\Debug\netcoreapp3.1\ExplicitInterfaces.pdb
+M:\C# OOP\Interfaces and Abstraction - Exercise\ExplicitInterfaces\obj\Debug\netcoreapp3.1\ExplicitInterfaces.genruntimeconfig.cache

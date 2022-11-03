@@ -1,0 +1,14 @@
+M:\C# OOP\Interfaces and Abstraction - Exercise\BirthdayCelebrations\bin\Debug\netcoreapp3.1\BirthdayCelebrations.exe
+M:\C# OOP\Interfaces and Abstraction - Exercise\BirthdayCelebrations\bin\Debug\netcoreapp3.1\BirthdayCelebrations.deps.json
+M:\C# OOP\Interfaces and Abstraction - Exercise\BirthdayCelebrations\bin\Debug\netcoreapp3.1\BirthdayCelebrations.runtimeconfig.json
+M:\C# OOP\Interfaces and Abstraction - Exercise\BirthdayCelebrations\bin\Debug\netcoreapp3.1\BirthdayCelebrations.runtimeconfig.dev.json
+M:\C# OOP\Interfaces and Abstraction - Exercise\BirthdayCelebrations\bin\Debug\netcoreapp3.1\BirthdayCelebrations.dll
+M:\C# OOP\Interfaces and Abstraction - Exercise\BirthdayCelebrations\bin\Debug\netcoreapp3.1\BirthdayCelebrations.pdb
+M:\C# OOP\Interfaces and Abstraction - Exercise\BirthdayCelebrations\obj\Debug\netcoreapp3.1\BirthdayCelebrations.csproj.AssemblyReference.cache
+M:\C# OOP\Interfaces and Abstraction - Exercise\BirthdayCelebrations\obj\Debug\netcoreapp3.1\BirthdayCelebrations.GeneratedMSBuildEditorConfig.editorconfig
+M:\C# OOP\Interfaces and Abstraction - Exercise\BirthdayCelebrations\obj\Debug\netcoreapp3.1\BirthdayCelebrations.AssemblyInfoInputs.cache
+M:\C# OOP\Interfaces and Abstraction - Exercise\BirthdayCelebrations\obj\Debug\netcoreapp3.1\BirthdayCelebrations.AssemblyInfo.cs
+M:\C# OOP\Interfaces and Abstraction - Exercise\BirthdayCelebrations\obj\Debug\netcoreapp3.1\BirthdayCelebrations.csproj.CoreCompileInputs.cache
+M:\C# OOP\Interfaces and Abstraction - Exercise\BirthdayCelebrations\obj\Debug\netcoreapp3.1\BirthdayCelebrations.dll
+M:\C# OOP\Interfaces and Abstraction - Exercise\BirthdayCelebrations\obj\Debug\netcoreapp3.1\BirthdayCelebrations.pdb
+M:\C# OOP\Interfaces and Abstraction - Exercise\BirthdayCelebrations\obj\Debug\netcoreapp3.1\BirthdayCelebrations.genruntimeconfig.cache
