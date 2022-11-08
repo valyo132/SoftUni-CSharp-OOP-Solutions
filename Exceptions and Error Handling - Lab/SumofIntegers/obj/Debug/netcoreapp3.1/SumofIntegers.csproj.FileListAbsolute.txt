@@ -1,0 +1,14 @@
+M:\C# OOP\Exceptions and Error Handling - Lab\SumofIntegers\bin\Debug\netcoreapp3.1\SumofIntegers.exe
+M:\C# OOP\Exceptions and Error Handling - Lab\SumofIntegers\bin\Debug\netcoreapp3.1\SumofIntegers.deps.json
+M:\C# OOP\Exceptions and Error Handling - Lab\SumofIntegers\bin\Debug\netcoreapp3.1\SumofIntegers.runtimeconfig.json
+M:\C# OOP\Exceptions and Error Handling - Lab\SumofIntegers\bin\Debug\netcoreapp3.1\SumofIntegers.runtimeconfig.dev.json
+M:\C# OOP\Exceptions and Error Handling - Lab\SumofIntegers\bin\Debug\netcoreapp3.1\SumofIntegers.dll
+M:\C# OOP\Exceptions and Error Handling - Lab\SumofIntegers\bin\Debug\netcoreapp3.1\SumofIntegers.pdb
+M:\C# OOP\Exceptions and Error Handling - Lab\SumofIntegers\obj\Debug\netcoreapp3.1\SumofIntegers.csproj.AssemblyReference.cache
+M:\C# OOP\Exceptions and Error Handling - Lab\SumofIntegers\obj\Debug\netcoreapp3.1\SumofIntegers.GeneratedMSBuildEditorConfig.editorconfig
+M:\C# OOP\Exceptions and Error Handling - Lab\SumofIntegers\obj\Debug\netcoreapp3.1\SumofIntegers.AssemblyInfoInputs.cache
+M:\C# OOP\Exceptions and Error Handling - Lab\SumofIntegers\obj\Debug\netcoreapp3.1\SumofIntegers.AssemblyInfo.cs
+M:\C# OOP\Exceptions and Error Handling - Lab\SumofIntegers\obj\Debug\netcoreapp3.1\SumofIntegers.csproj.CoreCompileInputs.cache
+M:\C# OOP\Exceptions and Error Handling - Lab\SumofIntegers\obj\Debug\netcoreapp3.1\SumofIntegers.dll
+M:\C# OOP\Exceptions and Error Handling - Lab\SumofIntegers\obj\Debug\netcoreapp3.1\SumofIntegers.pdb
+M:\C# OOP\Exceptions and Error Handling - Lab\SumofIntegers\obj\Debug\netcoreapp3.1\SumofIntegers.genruntimeconfig.cache

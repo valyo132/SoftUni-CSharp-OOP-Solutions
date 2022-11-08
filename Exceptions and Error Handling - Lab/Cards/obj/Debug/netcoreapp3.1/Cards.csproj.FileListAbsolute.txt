@@ -1,0 +1,14 @@
+M:\C# OOP\Exceptions and Error Handling - Lab\Cards\bin\Debug\netcoreapp3.1\Cards.exe
+M:\C# OOP\Exceptions and Error Handling - Lab\Cards\bin\Debug\netcoreapp3.1\Cards.deps.json
+M:\C# OOP\Exceptions and Error Handling - Lab\Cards\bin\Debug\netcoreapp3.1\Cards.runtimeconfig.json
+M:\C# OOP\Exceptions and Error Handling - Lab\Cards\bin\Debug\netcoreapp3.1\Cards.runtimeconfig.dev.json
+M:\C# OOP\Exceptions and Error Handling - Lab\Cards\bin\Debug\netcoreapp3.1\Cards.dll
+M:\C# OOP\Exceptions and Error Handling - Lab\Cards\bin\Debug\netcoreapp3.1\Cards.pdb
+M:\C# OOP\Exceptions and Error Handling - Lab\Cards\obj\Debug\netcoreapp3.1\Cards.csproj.AssemblyReference.cache
+M:\C# OOP\Exceptions and Error Handling - Lab\Cards\obj\Debug\netcoreapp3.1\Cards.GeneratedMSBuildEditorConfig.editorconfig
+M:\C# OOP\Exceptions and Error Handling - Lab\Cards\obj\Debug\netcoreapp3.1\Cards.AssemblyInfoInputs.cache
+M:\C# OOP\Exceptions and Error Handling - Lab\Cards\obj\Debug\netcoreapp3.1\Cards.AssemblyInfo.cs
+M:\C# OOP\Exceptions and Error Handling - Lab\Cards\obj\Debug\netcoreapp3.1\Cards.csproj.CoreCompileInputs.cache
+M:\C# OOP\Exceptions and Error Handling - Lab\Cards\obj\Debug\netcoreapp3.1\Cards.dll
+M:\C# OOP\Exceptions and Error Handling - Lab\Cards\obj\Debug\netcoreapp3.1\Cards.pdb
+M:\C# OOP\Exceptions and Error Handling - Lab\Cards\obj\Debug\netcoreapp3.1\Cards.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+M:\C# OOP\Exceptions and Error Handling - Lab\MoneyTransactions\bin\Debug\netcoreapp3.1\MoneyTransactions.exe
+M:\C# OOP\Exceptions and Error Handling - Lab\MoneyTransactions\bin\Debug\netcoreapp3.1\MoneyTransactions.deps.json
+M:\C# OOP\Exceptions and Error Handling - Lab\MoneyTransactions\bin\Debug\netcoreapp3.1\MoneyTransactions.runtimeconfig.json
+M:\C# OOP\Exceptions and Error Handling - Lab\MoneyTransactions\bin\Debug\netcoreapp3.1\MoneyTransactions.runtimeconfig.dev.json
+M:\C# OOP\Exceptions and Error Handling - Lab\MoneyTransactions\bin\Debug\netcoreapp3.1\MoneyTransactions.dll
+M:\C# OOP\Exceptions and Error Handling - Lab\MoneyTransactions\bin\Debug\netcoreapp3.1\MoneyTransactions.pdb
+M:\C# OOP\Exceptions and Error Handling - Lab\MoneyTransactions\obj\Debug\netcoreapp3.1\MoneyTransactions.csproj.AssemblyReference.cache
+M:\C# OOP\Exceptions and Error Handling - Lab\MoneyTransactions\obj\Debug\netcoreapp3.1\MoneyTransactions.GeneratedMSBuildEditorConfig.editorconfig
+M:\C# OOP\Exceptions and Error Handling - Lab\MoneyTransactions\obj\Debug\netcoreapp3.1\MoneyTransactions.AssemblyInfoInputs.cache
+M:\C# OOP\Exceptions and Error Handling - Lab\MoneyTransactions\obj\Debug\netcoreapp3.1\MoneyTransactions.AssemblyInfo.cs
+M:\C# OOP\Exceptions and Error Handling - Lab\MoneyTransactions\obj\Debug\netcoreapp3.1\MoneyTransactions.csproj.CoreCompileInputs.cache
+M:\C# OOP\Exceptions and Error Handling - Lab\MoneyTransactions\obj\Debug\netcoreapp3.1\MoneyTransactions.dll
+M:\C# OOP\Exceptions and Error Handling - Lab\MoneyTransactions\obj\Debug\netcoreapp3.1\MoneyTransactions.pdb
+M:\C# OOP\Exceptions and Error Handling - Lab\MoneyTransactions\obj\Debug\netcoreapp3.1\MoneyTransactions.genruntimeconfig.cache

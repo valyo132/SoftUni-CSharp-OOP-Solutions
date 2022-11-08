@@ -1,0 +1,14 @@
+M:\C# OOP\Exceptions and Error Handling - Lab\PlayCatch\bin\Debug\netcoreapp3.1\PlayCatch.exe
+M:\C# OOP\Exceptions and Error Handling - Lab\PlayCatch\bin\Debug\netcoreapp3.1\PlayCatch.deps.json
+M:\C# OOP\Exceptions and Error Handling - Lab\PlayCatch\bin\Debug\netcoreapp3.1\PlayCatch.runtimeconfig.json
+M:\C# OOP\Exceptions and Error Handling - Lab\PlayCatch\bin\Debug\netcoreapp3.1\PlayCatch.runtimeconfig.dev.json
+M:\C# OOP\Exceptions and Error Handling - Lab\PlayCatch\bin\Debug\netcoreapp3.1\PlayCatch.dll
+M:\C# OOP\Exceptions and Error Handling - Lab\PlayCatch\bin\Debug\netcoreapp3.1\PlayCatch.pdb
+M:\C# OOP\Exceptions and Error Handling - Lab\PlayCatch\obj\Debug\netcoreapp3.1\PlayCatch.csproj.AssemblyReference.cache
+M:\C# OOP\Exceptions and Error Handling - Lab\PlayCatch\obj\Debug\netcoreapp3.1\PlayCatch.GeneratedMSBuildEditorConfig.editorconfig
+M:\C# OOP\Exceptions and Error Handling - Lab\PlayCatch\obj\Debug\netcoreapp3.1\PlayCatch.AssemblyInfoInputs.cache
+M:\C# OOP\Exceptions and Error Handling - Lab\PlayCatch\obj\Debug\netcoreapp3.1\PlayCatch.AssemblyInfo.cs
+M:\C# OOP\Exceptions and Error Handling - Lab\PlayCatch\obj\Debug\netcoreapp3.1\PlayCatch.csproj.CoreCompileInputs.cache
+M:\C# OOP\Exceptions and Error Handling - Lab\PlayCatch\obj\Debug\netcoreapp3.1\PlayCatch.dll
+M:\C# OOP\Exceptions and Error Handling - Lab\PlayCatch\obj\Debug\netcoreapp3.1\PlayCatch.pdb
+M:\C# OOP\Exceptions and Error Handling - Lab\PlayCatch\obj\Debug\netcoreapp3.1\PlayCatch.genruntimeconfig.cache

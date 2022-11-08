@@ -1,0 +1,14 @@
+M:\C# OOP\Exceptions and Error Handling - Lab\SquareRoot\bin\Debug\netcoreapp3.1\SquareRoot.exe
+M:\C# OOP\Exceptions and Error Handling - Lab\SquareRoot\bin\Debug\netcoreapp3.1\SquareRoot.deps.json
+M:\C# OOP\Exceptions and Error Handling - Lab\SquareRoot\bin\Debug\netcoreapp3.1\SquareRoot.runtimeconfig.json
+M:\C# OOP\Exceptions and Error Handling - Lab\SquareRoot\bin\Debug\netcoreapp3.1\SquareRoot.runtimeconfig.dev.json
+M:\C# OOP\Exceptions and Error Handling - Lab\SquareRoot\bin\Debug\netcoreapp3.1\SquareRoot.dll
+M:\C# OOP\Exceptions and Error Handling - Lab\SquareRoot\bin\Debug\netcoreapp3.1\SquareRoot.pdb
+M:\C# OOP\Exceptions and Error Handling - Lab\SquareRoot\obj\Debug\netcoreapp3.1\SquareRoot.csproj.AssemblyReference.cache
+M:\C# OOP\Exceptions and Error Handling - Lab\SquareRoot\obj\Debug\netcoreapp3.1\SquareRoot.GeneratedMSBuildEditorConfig.editorconfig
+M:\C# OOP\Exceptions and Error Handling - Lab\SquareRoot\obj\Debug\netcoreapp3.1\SquareRoot.AssemblyInfoInputs.cache
+M:\C# OOP\Exceptions and Error Handling - Lab\SquareRoot\obj\Debug\netcoreapp3.1\SquareRoot.AssemblyInfo.cs
+M:\C# OOP\Exceptions and Error Handling - Lab\SquareRoot\obj\Debug\netcoreapp3.1\SquareRoot.csproj.CoreCompileInputs.cache
+M:\C# OOP\Exceptions and Error Handling - Lab\SquareRoot\obj\Debug\netcoreapp3.1\SquareRoot.dll
+M:\C# OOP\Exceptions and Error Handling - Lab\SquareRoot\obj\Debug\netcoreapp3.1\SquareRoot.pdb
+M:\C# OOP\Exceptions and Error Handling - Lab\SquareRoot\obj\Debug\netcoreapp3.1\SquareRoot.genruntimeconfig.cache

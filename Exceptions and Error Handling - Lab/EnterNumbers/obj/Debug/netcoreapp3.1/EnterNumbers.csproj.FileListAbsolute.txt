@@ -1,0 +1,14 @@
+M:\C# OOP\Exceptions and Error Handling - Lab\EnterNumbers\bin\Debug\netcoreapp3.1\EnterNumbers.exe
+M:\C# OOP\Exceptions and Error Handling - Lab\EnterNumbers\bin\Debug\netcoreapp3.1\EnterNumbers.deps.json
+M:\C# OOP\Exceptions and Error Handling - Lab\EnterNumbers\bin\Debug\netcoreapp3.1\EnterNumbers.runtimeconfig.json
+M:\C# OOP\Exceptions and Error Handling - Lab\EnterNumbers\bin\Debug\netcoreapp3.1\EnterNumbers.runtimeconfig.dev.json
+M:\C# OOP\Exceptions and Error Handling - Lab\EnterNumbers\bin\Debug\netcoreapp3.1\EnterNumbers.dll
+M:\C# OOP\Exceptions and Error Handling - Lab\EnterNumbers\bin\Debug\netcoreapp3.1\EnterNumbers.pdb
+M:\C# OOP\Exceptions and Error Handling - Lab\EnterNumbers\obj\Debug\netcoreapp3.1\EnterNumbers.csproj.AssemblyReference.cache
+M:\C# OOP\Exceptions and Error Handling - Lab\EnterNumbers\obj\Debug\netcoreapp3.1\EnterNumbers.GeneratedMSBuildEditorConfig.editorconfig
+M:\C# OOP\Exceptions and Error Handling - Lab\EnterNumbers\obj\Debug\netcoreapp3.1\EnterNumbers.AssemblyInfoInputs.cache
+M:\C# OOP\Exceptions and Error Handling - Lab\EnterNumbers\obj\Debug\netcoreapp3.1\EnterNumbers.AssemblyInfo.cs
+M:\C# OOP\Exceptions and Error Handling - Lab\EnterNumbers\obj\Debug\netcoreapp3.1\EnterNumbers.csproj.CoreCompileInputs.cache
+M:\C# OOP\Exceptions and Error Handling - Lab\EnterNumbers\obj\Debug\netcoreapp3.1\EnterNumbers.dll
+M:\C# OOP\Exceptions and Error Handling - Lab\EnterNumbers\obj\Debug\netcoreapp3.1\EnterNumbers.pdb
+M:\C# OOP\Exceptions and Error Handling - Lab\EnterNumbers\obj\Debug\netcoreapp3.1\EnterNumbers.genruntimeconfig.cache
