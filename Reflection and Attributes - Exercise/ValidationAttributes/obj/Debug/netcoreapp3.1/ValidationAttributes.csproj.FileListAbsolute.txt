@@ -1,0 +1,14 @@
+G:\C# OOP\Reflection and Attributes - Exercise\ValidationAttributes\bin\Debug\netcoreapp3.1\ValidationAttributes.exe
+G:\C# OOP\Reflection and Attributes - Exercise\ValidationAttributes\bin\Debug\netcoreapp3.1\ValidationAttributes.deps.json
+G:\C# OOP\Reflection and Attributes - Exercise\ValidationAttributes\bin\Debug\netcoreapp3.1\ValidationAttributes.runtimeconfig.json
+G:\C# OOP\Reflection and Attributes - Exercise\ValidationAttributes\bin\Debug\netcoreapp3.1\ValidationAttributes.runtimeconfig.dev.json
+G:\C# OOP\Reflection and Attributes - Exercise\ValidationAttributes\bin\Debug\netcoreapp3.1\ValidationAttributes.dll
+G:\C# OOP\Reflection and Attributes - Exercise\ValidationAttributes\bin\Debug\netcoreapp3.1\ValidationAttributes.pdb
+G:\C# OOP\Reflection and Attributes - Exercise\ValidationAttributes\obj\Debug\netcoreapp3.1\ValidationAttributes.csproj.AssemblyReference.cache
+G:\C# OOP\Reflection and Attributes - Exercise\ValidationAttributes\obj\Debug\netcoreapp3.1\ValidationAttributes.GeneratedMSBuildEditorConfig.editorconfig
+G:\C# OOP\Reflection and Attributes - Exercise\ValidationAttributes\obj\Debug\netcoreapp3.1\ValidationAttributes.AssemblyInfoInputs.cache
+G:\C# OOP\Reflection and Attributes - Exercise\ValidationAttributes\obj\Debug\netcoreapp3.1\ValidationAttributes.AssemblyInfo.cs
+G:\C# OOP\Reflection and Attributes - Exercise\ValidationAttributes\obj\Debug\netcoreapp3.1\ValidationAttributes.csproj.CoreCompileInputs.cache
+G:\C# OOP\Reflection and Attributes - Exercise\ValidationAttributes\obj\Debug\netcoreapp3.1\ValidationAttributes.dll
+G:\C# OOP\Reflection and Attributes - Exercise\ValidationAttributes\obj\Debug\netcoreapp3.1\ValidationAttributes.pdb
+G:\C# OOP\Reflection and Attributes - Exercise\ValidationAttributes\obj\Debug\netcoreapp3.1\ValidationAttributes.genruntimeconfig.cache
