@@ -1,0 +1,14 @@
+G:\C# OOP\Unit Testing - Exercises\Database\bin\Debug\netcoreapp3.1\Database.exe
+G:\C# OOP\Unit Testing - Exercises\Database\bin\Debug\netcoreapp3.1\Database.deps.json
+G:\C# OOP\Unit Testing - Exercises\Database\bin\Debug\netcoreapp3.1\Database.runtimeconfig.json
+G:\C# OOP\Unit Testing - Exercises\Database\bin\Debug\netcoreapp3.1\Database.runtimeconfig.dev.json
+G:\C# OOP\Unit Testing - Exercises\Database\bin\Debug\netcoreapp3.1\Database.dll
+G:\C# OOP\Unit Testing - Exercises\Database\bin\Debug\netcoreapp3.1\Database.pdb
+G:\C# OOP\Unit Testing - Exercises\Database\obj\Debug\netcoreapp3.1\Database.csproj.AssemblyReference.cache
+G:\C# OOP\Unit Testing - Exercises\Database\obj\Debug\netcoreapp3.1\Database.GeneratedMSBuildEditorConfig.editorconfig
+G:\C# OOP\Unit Testing - Exercises\Database\obj\Debug\netcoreapp3.1\Database.AssemblyInfoInputs.cache
+G:\C# OOP\Unit Testing - Exercises\Database\obj\Debug\netcoreapp3.1\Database.AssemblyInfo.cs
+G:\C# OOP\Unit Testing - Exercises\Database\obj\Debug\netcoreapp3.1\Database.csproj.CoreCompileInputs.cache
+G:\C# OOP\Unit Testing - Exercises\Database\obj\Debug\netcoreapp3.1\Database.dll
+G:\C# OOP\Unit Testing - Exercises\Database\obj\Debug\netcoreapp3.1\Database.pdb
+G:\C# OOP\Unit Testing - Exercises\Database\obj\Debug\netcoreapp3.1\Database.genruntimeconfig.cache
