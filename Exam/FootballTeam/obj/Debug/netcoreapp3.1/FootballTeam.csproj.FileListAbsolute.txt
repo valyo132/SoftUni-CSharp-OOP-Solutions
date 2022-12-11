@@ -1,0 +1,14 @@
+G:\C# OOP\Exam\FootballTeam\bin\Debug\netcoreapp3.1\FootballTeam.exe
+G:\C# OOP\Exam\FootballTeam\bin\Debug\netcoreapp3.1\FootballTeam.deps.json
+G:\C# OOP\Exam\FootballTeam\bin\Debug\netcoreapp3.1\FootballTeam.runtimeconfig.json
+G:\C# OOP\Exam\FootballTeam\bin\Debug\netcoreapp3.1\FootballTeam.runtimeconfig.dev.json
+G:\C# OOP\Exam\FootballTeam\bin\Debug\netcoreapp3.1\FootballTeam.dll
+G:\C# OOP\Exam\FootballTeam\bin\Debug\netcoreapp3.1\FootballTeam.pdb
+G:\C# OOP\Exam\FootballTeam\obj\Debug\netcoreapp3.1\FootballTeam.csproj.AssemblyReference.cache
+G:\C# OOP\Exam\FootballTeam\obj\Debug\netcoreapp3.1\FootballTeam.GeneratedMSBuildEditorConfig.editorconfig
+G:\C# OOP\Exam\FootballTeam\obj\Debug\netcoreapp3.1\FootballTeam.AssemblyInfoInputs.cache
+G:\C# OOP\Exam\FootballTeam\obj\Debug\netcoreapp3.1\FootballTeam.AssemblyInfo.cs
+G:\C# OOP\Exam\FootballTeam\obj\Debug\netcoreapp3.1\FootballTeam.csproj.CoreCompileInputs.cache
+G:\C# OOP\Exam\FootballTeam\obj\Debug\netcoreapp3.1\FootballTeam.dll
+G:\C# OOP\Exam\FootballTeam\obj\Debug\netcoreapp3.1\FootballTeam.pdb
+G:\C# OOP\Exam\FootballTeam\obj\Debug\netcoreapp3.1\FootballTeam.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+G:\C# OOP\Exam\ChristmasParty\bin\Debug\netcoreapp3.1\ChristmasPastryShop.exe
+G:\C# OOP\Exam\ChristmasParty\bin\Debug\netcoreapp3.1\ChristmasPastryShop.deps.json
+G:\C# OOP\Exam\ChristmasParty\bin\Debug\netcoreapp3.1\ChristmasPastryShop.runtimeconfig.json
+G:\C# OOP\Exam\ChristmasParty\bin\Debug\netcoreapp3.1\ChristmasPastryShop.runtimeconfig.dev.json
+G:\C# OOP\Exam\ChristmasParty\bin\Debug\netcoreapp3.1\ChristmasPastryShop.dll
+G:\C# OOP\Exam\ChristmasParty\bin\Debug\netcoreapp3.1\ChristmasPastryShop.pdb
+G:\C# OOP\Exam\ChristmasParty\obj\Debug\netcoreapp3.1\ChristmasPastryShop.csproj.AssemblyReference.cache
+G:\C# OOP\Exam\ChristmasParty\obj\Debug\netcoreapp3.1\ChristmasPastryShop.GeneratedMSBuildEditorConfig.editorconfig
+G:\C# OOP\Exam\ChristmasParty\obj\Debug\netcoreapp3.1\ChristmasPastryShop.AssemblyInfoInputs.cache
+G:\C# OOP\Exam\ChristmasParty\obj\Debug\netcoreapp3.1\ChristmasPastryShop.AssemblyInfo.cs
+G:\C# OOP\Exam\ChristmasParty\obj\Debug\netcoreapp3.1\ChristmasPastryShop.csproj.CoreCompileInputs.cache
+G:\C# OOP\Exam\ChristmasParty\obj\Debug\netcoreapp3.1\ChristmasPastryShop.dll
+G:\C# OOP\Exam\ChristmasParty\obj\Debug\netcoreapp3.1\ChristmasPastryShop.pdb
+G:\C# OOP\Exam\ChristmasParty\obj\Debug\netcoreapp3.1\ChristmasPastryShop.genruntimeconfig.cache
