@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "M:\\C# OOP\\Encapsulation - Lab\\Salary\\Salary.csproj": {}
+    "C:\\Users\\valyo\\OneDrive\\Документи\\GitHub Repositories\\SoftUni-CSharp-OOP-Solutions\\Encapsulation - Lab\\Salary\\Salary.csproj": {}
   },
   "projects": {
-    "M:\\C# OOP\\Encapsulation - Lab\\Salary\\Salary.csproj": {
+    "C:\\Users\\valyo\\OneDrive\\Документи\\GitHub Repositories\\SoftUni-CSharp-OOP-Solutions\\Encapsulation - Lab\\Salary\\Salary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "M:\\C# OOP\\Encapsulation - Lab\\Salary\\Salary.csproj",
+        "projectUniqueName": "C:\\Users\\valyo\\OneDrive\\Документи\\GitHub Repositories\\SoftUni-CSharp-OOP-Solutions\\Encapsulation - Lab\\Salary\\Salary.csproj",
         "projectName": "Salary",
-        "projectPath": "M:\\C# OOP\\Encapsulation - Lab\\Salary\\Salary.csproj",
+        "projectPath": "C:\\Users\\valyo\\OneDrive\\Документи\\GitHub Repositories\\SoftUni-CSharp-OOP-Solutions\\Encapsulation - Lab\\Salary\\Salary.csproj",
         "packagesPath": "C:\\Users\\valyo\\.nuget\\packages\\",
-        "outputPath": "M:\\C# OOP\\Encapsulation - Lab\\Salary\\obj\\",
+        "outputPath": "C:\\Users\\valyo\\OneDrive\\Документи\\GitHub Repositories\\SoftUni-CSharp-OOP-Solutions\\Encapsulation - Lab\\Salary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\valyo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -45,7 +45,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -54,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

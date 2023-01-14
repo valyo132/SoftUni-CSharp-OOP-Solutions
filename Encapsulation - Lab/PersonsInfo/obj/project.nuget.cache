@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "p5SFxfeWnh1cXSl1T6cQXblmmIfiMcuiU+NUpg0vm/9nkzy+qKLWTabO4mBoLDU6Du5vhMHV+voE5F6+kqzeTw==",
+  "dgSpecHash": "rPnCQhm3gNWeVlT8uc+B4XYV9d4pngPfHTONPdNls7bqYsXJR22jALWuCka9hYDwTUQKg7M4zr9NmCDJEkfpGA==",
   "success": true,
-  "projectFilePath": "M:\\C# OOP\\Encapsulation - Lab\\PersonsInfo\\PersonsInfo.csproj",
+  "projectFilePath": "C:\\Users\\valyo\\OneDrive\\Документи\\GitHub Repositories\\SoftUni-CSharp-OOP-Solutions\\Encapsulation - Lab\\PersonsInfo\\PersonsInfo.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
