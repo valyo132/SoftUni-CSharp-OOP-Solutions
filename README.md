@@ -1,2 +1,8 @@
 # SoftUni-CSharp-OOP-Solutions
-This is my homework for SoftUni OOP Module with C#
+
+What the course includes:
+  - Undersand the object-oriented programming (OOP) paradigm
+  - Use data encapsulation
+  - Use the Reflection API
+  - Apply the principles of OOP
+  - Create a herarchy of classes and inheritence
